@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563939260698",
+    "project_id": "novel-reading",
+    "storage_bucket": "novel-reading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563939260698:android:19793a709ea4f1a40354a3",
+        "android_client_info": {
+          "package_name": "com.napoam21.novelreadingfree.amazingstories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563939260698-c0tdb5h6kkperks67ueoc5btioujkl98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuR6lZ0Hnlb9lcwApCg3Qck95h4XGbHTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563939260698-c0tdb5h6kkperks67ueoc5btioujkl98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

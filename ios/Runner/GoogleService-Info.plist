@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>202244490923-b284to59bod1169qog573l6jrojt9n49.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.202244490923-b284to59bod1169qog573l6jrojt9n49</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNX4uUC6T5Uw9GS8s9VdnMupv2NQ5fxFw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>202244490923</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.novelwordstudio.booklovenovelfull</string>
+	<key>PROJECT_ID</key>
+	<string>novel-world-5bd6a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>novel-world-5bd6a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:202244490923:ios:e3498ad304bc63cf2399ee</string>
+</dict>
+</plist>
